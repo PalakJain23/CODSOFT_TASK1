@@ -19,21 +19,7 @@ Built to demonstrate basic terminal interactions using `if-else`, pattern matchi
 
 ![chatbot](https://github.com/user-attachments/assets/6b925c63-353c-4f84-ba7f-e062757170aa)
 
-
-## ▶️ Run the Bot
-
-```bash
-python chatbot.py
-
-## 🚀 Getting Started
-
-### 🔧 Requirements
-
-- Python 3.x installed
-
-### ▶️ Run the Bot
-
-
+ Run the Bot: 
 python chatbot.py
 
 
@@ -44,8 +30,7 @@ Once started, you can:
 * Type `bye` to exit the chat
 
 
-
-## 📁 Project Structure
+📁 Project Structure
 
 | File               | Description                        |
 | ------------------ | ---------------------------------- |
