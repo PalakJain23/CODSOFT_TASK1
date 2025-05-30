@@ -42,7 +42,7 @@ Once started, you can:
 
 🙋‍♀️ Author
 Made with 💬 by Palak
-🔗 Connect on LinkedIn (add your profile link)
+🔗 Connect on LinkedIn https://www.linkedin.com/in/palak-jain-3706b0311/
 
 ⭐ Feedback & Support
 If you like this project, consider giving it a ⭐ on GitHub.
