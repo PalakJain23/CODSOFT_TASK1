@@ -1,25 +1,29 @@
-# 🤖 ChatBot – Rule-Based Terminal Bot by Suman
+# 🤖 PalakBot – Rule-Based Terminal ChatBot
 
-A colorful, rule-based chatbot built in Python for terminal use.  
-Developed as part of my **CodSoft Internship** to demonstrate logic-based interaction using `if-else` and `regex`.
-
----
-
-## 📌 Features
-
-- 🎨 Stylish chat bubbles with ANSI color formatting
-- 🧠 Rule-based logic using pattern matching (`re`)
-- 😊 Emoji-powered responses for better interaction
-- 💬 Handles greetings, identity, help, moods (happy/sad)
-- 📝 Easy to run in any terminal environment
+A simple and colorful rule-based chatbot created using Python.  
+Built to demonstrate basic terminal interactions using `if-else`, pattern matching, and emoji responses.
 
 ---
 
-## 🖥️ Demo Screenshot
-![Screenshot 2025-05-29 201905](https://github.com/user-attachments/assets/b620ca5b-0bdf-41f2-99d8-155acb64a551)
+## ✨ Features
 
+- 🎨 Emoji-enhanced chat replies
+- 🧠 Rule-based logic using simple conditions
+- 💬 Responds to greetings and small talk
+- 👋 Graceful exit with `bye`, `exit`, or `quit`
+- 💻 Easy to run on any terminal with Python installed
 
 ---
+
+## 🖼️ Demo Screenshot
+
+![chatbot](https://github.com/user-attachments/assets/6b925c63-353c-4f84-ba7f-e062757170aa)
+
+
+## ▶️ Run the Bot
+
+```bash
+python chatbot.py
 
 ## 🚀 Getting Started
 
@@ -51,20 +55,18 @@ Once started, you can:
 
 ---
 
-## 🙋‍♂️ Author
+🙋‍♀️ Author
+Made with 💬 by Palak
+🔗 Connect on LinkedIn (add your profile link)
 
-Made with 💬 by **Suman Sekhar Sahoo**
-🔗 [LinkedIn Profile](http://www.linkedin.com/in/sumansekhar-sahoo)
+⭐ Feedback & Support
+If you like this project, consider giving it a ⭐ on GitHub.
+Suggestions and contributions are welcome!
 
----
+✅ To Use:
 
-## ⭐ Feedback & Support
+Save this content as README.md
 
-If you like this project, consider giving it a ⭐ on GitHub and connecting with me on [LinkedIn](http://www.linkedin.com/in/sumansekhar-sahoo).
-Pull requests and suggestions are always welcome!
+Keep it alongside chatbot.py and your demo image
 
----
-### ✅ To Use:
-1. Copy the above content into a file named `README.md`
-2. Place it in the same directory as your `chatbot.py`
-3. Upload both to your GitHub repo
+Push the files to your GitHub repository
